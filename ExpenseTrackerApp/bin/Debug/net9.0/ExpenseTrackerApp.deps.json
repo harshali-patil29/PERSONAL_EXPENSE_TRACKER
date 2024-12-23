@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExpenseTrackerApp/1.0.0": {
+        "dependencies": {
+          "ExpenseTrackerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExpenseTrackerApp.dll": {}
+        }
+      },
+      "ExpenseTrackerLibrary/1.0.0": {
+        "runtime": {
+          "ExpenseTrackerLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpenseTrackerApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExpenseTrackerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

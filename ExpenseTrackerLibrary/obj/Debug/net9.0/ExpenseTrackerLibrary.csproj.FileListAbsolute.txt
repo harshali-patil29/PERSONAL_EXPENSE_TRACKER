@@ -1,0 +1,11 @@
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\obj\Debug\net9.0\ExpenseTrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\obj\Debug\net9.0\ExpenseTrackerLibrary.AssemblyInfoInputs.cache
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\obj\Debug\net9.0\ExpenseTrackerLibrary.AssemblyInfo.cs
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\obj\Debug\net9.0\ExpenseTrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\bin\Debug\net9.0\ExpenseTrackerLibrary.deps.json
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\bin\Debug\net9.0\ExpenseTrackerLibrary.dll
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\bin\Debug\net9.0\ExpenseTrackerLibrary.pdb
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\obj\Debug\net9.0\ExpenseTrackerLibrary.dll
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\obj\Debug\net9.0\refint\ExpenseTrackerLibrary.dll
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\obj\Debug\net9.0\ExpenseTrackerLibrary.pdb
+C:\Users\Harshali\Desktop\MSNET WORKSPACE\PERSONAL_EXPENSE_TRACKER\ExpenseTrackerLibrary\obj\Debug\net9.0\ref\ExpenseTrackerLibrary.dll
